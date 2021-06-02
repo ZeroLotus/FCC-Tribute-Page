@@ -7,11 +7,15 @@ main {
 body {
     background-color: rgba(17, 201, 63, 0.836);
 }
+#img-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
 #image {
     border: 5px solid #000000;
     border-radius: 5%;
-    display: block;
     max-width: 100%;
     height: auto;
-    margin: auto;
 }
