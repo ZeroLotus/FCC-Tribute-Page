@@ -26,8 +26,12 @@ body {
 }
 #info {
     background-color: aqua;
-    margin: 300px;
+    margin: 100px;
+    padding: 200px;
     text-align: left;
+}
+li {
+    margin: 1em 0;
 }
 a:link {
     color: white;
