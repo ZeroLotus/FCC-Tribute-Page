@@ -25,12 +25,8 @@ body {
     border: 5px solid black;
     background-color: rgba(236, 236, 236, 0.767);
     padding-top: 45px;
+    font-size: 1.3em;
 }
-/* #info {
-    margin: 50px;
-    padding: 200px;
-    text-align: left;
-} */
 li {
     margin: 1em 0;
 }
