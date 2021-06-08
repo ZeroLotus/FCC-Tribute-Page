@@ -26,11 +26,11 @@ body {
     background-color: rgba(236, 236, 236, 0.767);
     padding-top: 45px;
 }
-#info {
+/* #info {
     margin: 50px;
     padding: 200px;
     text-align: left;
-}
+} */
 li {
     margin: 1em 0;
 }
@@ -39,4 +39,8 @@ a:link {
 }
 a:visited {
     color: black;
+}
+.align-left {
+    text-align: left;
+    padding: 20px;
 }
